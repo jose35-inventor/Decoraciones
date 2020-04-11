@@ -1,1 +1,69 @@
-
+<style>            
+        body{
+            background-color: white;
+        }
+        #decoraciones{
+           color: white;
+           font-family: cursive;
+           font-size: 4em;
+           line-height: 3em;
+           text-align: center;
+           
+        }
+        #productos{
+            text-align: center;
+            color: darkcyan;
+            font-style: italic;
+            font-size: 2em;
+            
+        }
+        .bloque{
+            background-color: black;
+            text-align: center;
+            height: 120em;
+            position: relative;
+            bottom: 20px;
+        }
+        .info{
+            color: #959595;
+            text-align: center;
+            position: relative;
+            top:400px;
+        }
+        #imagen1{
+            width: 32em;
+            height: 250px;
+            position: relative;
+            bottom: 100px;
+            left: 24em;
+            
+        }
+        #imagen2{
+            width: 300px;
+            height: 400px;
+            position: relative;
+            top: 245px;
+            right: 30em;
+        }
+        #imagen3{
+            width: 32em;
+            height: 240px;
+            position: relative;
+            top:160px;
+            right:437px;
+        }
+        #imagen4{
+            width: 300px;
+            height: 415px;
+            position: absolute;
+            top: 535px;
+            left: 62em;
+        }
+        #imagen5{
+            width: 515px;
+            height: 270px;
+            position: relative;
+            top: 175px;
+        }
+    </style>
+    
