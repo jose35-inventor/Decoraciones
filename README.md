@@ -1,2 +1,2 @@
 # P&C Decoraciones
-Here you can find new web pages where you can edit and improve. For a beginner developer.
+Aqui podras entrar a ver los productos que ofrece nuestro negocio para la decoracion de casas o departamentos.
