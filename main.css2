@@ -1,0 +1,71 @@
+<style>
+        
+        #imagen-p{
+            width: 85em;
+            height: 50em;
+        }
+        .porcelanato{       
+            background-color: black;
+            color: white;
+            height: 58em;
+            position: relative;
+            bottom: 30px;
+            text-align: center;
+            
+        }
+        #por{
+            text-align: center;
+            font-family: serif;
+            position: relative;
+            top:20px;
+            font-size: 50px;
+            background-color: green;
+        }
+        #medidas{
+            width: 50%;
+            color: white;
+            font-family: monospace;
+            float: right;
+            position: relative;
+            bottom: 22.4em;
+            z-index:5;
+        }
+        #tipos{
+            color: white;
+            font-family: monospace;
+            position: relative;
+            left: 100px;
+            z-index:4;
+        }
+        #imagen-p2{
+            position: absolute;
+            width: 320px;
+            height:300px;
+            top: 62em;
+            left:20em;
+            z-index:3;
+        }
+        #imagen-p3{
+            position: absolute;
+            width: 350px;
+            height: 300px;
+            top:62em;
+            left: 60em;
+            z-index:2;
+        }
+        #fondo{
+            position: absolute;
+            width: 88.05em;
+            height: 40em;
+            top:58.7em;
+            z-index: 1;
+            
+        }
+        #lateral{
+            position:absolute;
+            width: 90px;
+            height: 97.9em;
+            left: 88.5em;
+            top: .76em;
+        }
+    </style>
